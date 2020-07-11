@@ -2,4 +2,6 @@
 我是令狐冲，我比岳不群厉害呀。edit by lhuc
 我是令狐冲，我比岳不群厉害呀。edit by ybuq
 
-测岳不群的pull
+岳不群的pull
+
+东方不败：fork	clone	push
